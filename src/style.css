@@ -4,13 +4,20 @@
     margin: 0;
 }
 
-img {
+.restaurantImage {
     width: 200px;
 }
 
 body {
     background-color: black;
     color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }
 
 #content {
